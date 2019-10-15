@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LeapYear2
+comment1.params=month
+comment1.target=int\ getLYDays(int)
+comment2.params=month\ day
+comment2.target=int\ daysElapsed(int,\ int)
+numComments=3

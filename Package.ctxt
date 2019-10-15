@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Package
+comment1.params=ounces\ method
+comment1.target=Package(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ calculateCost()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DoublesTennisGame
+comment1.params=player1\ player2\ finalScore1\ finalScore2\ partner1\ partner2
+comment1.target=DoublesTennisGame(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=pt1
+comment2.target=void\ setPartner1(java.lang.String)
+comment3.params=pt2
+comment3.target=void\ setPartner2(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPartner1()
+comment5.params=
+comment5.target=java.lang.String\ getPartner2()
+numComments=6

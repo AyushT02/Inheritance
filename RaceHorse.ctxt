@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RaceHorse
+comment1.params=name\ color\ BirthYear\ races
+comment1.target=RaceHorse(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRaces()
+numComments=3
